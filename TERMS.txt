@@ -66,6 +66,13 @@ You may NOT:
 The application, its design, its source code and its name remain the property
 of the developer. Nothing here transfers ownership of anything.
 
+These restrictions apply to Trader Copilot itself. They do NOT apply to the
+open-source components bundled with it — in particular FFmpeg and ffprobe,
+which are licensed to you separately under the GNU GPL v3 and carry their own,
+broader rights. See "THIRD-PARTY NOTICES.txt" in this folder, which also tells
+you how to obtain their source code. Where those licences conflict with
+anything in this section, those licences win.
+
 Your access to the beta may be withdrawn at any time, for any reason.
 
 --------------------------------------------------------------------------

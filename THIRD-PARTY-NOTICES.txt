@@ -1,0 +1,64 @@
+TRADER COPILOT — THIRD-PARTY NOTICES
+Last updated: 24 September 2026
+
+Trader Copilot bundles and builds on open-source software. This file lists the
+components whose licences require notice, and tells you where to get their
+source code. Nothing here restricts the rights those licences give you.
+
+==========================================================================
+FFmpeg and ffprobe  —  GNU General Public License, version 3 or later
+==========================================================================
+Trader Copilot ships `ffmpeg.exe` and `ffprobe.exe` next to its own executable
+and runs them as separate programs to record, trim, export and inspect video.
+
+  Version bundled : 8.1.2 (essentials build, configured --enable-gpl
+                    --enable-version3, including libx264 and libx265)
+  Upstream project: https://ffmpeg.org
+  Build provider  : https://www.gyan.dev/ffmpeg/builds/
+  Copyright       : (c) 2000-2026 the FFmpeg developers
+
+These two executables are licensed to you under the GNU GPL v3 (or, at your
+option, any later version) — NOT under the Trader Copilot terms. Under that
+licence you are free to use, study, modify and redistribute them.
+
+  Licence text: https://www.gnu.org/licenses/gpl-3.0.html
+
+WRITTEN OFFER OF SOURCE CODE
+The complete corresponding source for the FFmpeg build included with Trader
+Copilot is available from the FFmpeg project at https://ffmpeg.org/download.html
+and from the build provider's source archives at
+https://www.gyan.dev/ffmpeg/builds/. If you would rather receive it directly,
+email mellyappdevelopment@gmail.com and a copy will be provided at no more than
+the cost of distribution. This offer is valid to anyone who receives a copy of
+Trader Copilot.
+
+Trader Copilot communicates with FFmpeg only by launching it as a separate
+process with command-line arguments. No FFmpeg code is linked into, compiled
+into, or derived from Trader Copilot's own code.
+
+==========================================================================
+Tauri  —  MIT / Apache-2.0
+==========================================================================
+The desktop application shell, updater and installer.
+  https://tauri.app  —  https://github.com/tauri-apps/tauri
+
+==========================================================================
+Microsoft Edge WebView2 Runtime
+==========================================================================
+Supplied by and updated through Microsoft Windows; used under the Microsoft
+Edge WebView2 Runtime distribution terms. Not redistributed by Trader Copilot.
+
+==========================================================================
+Other open-source components
+==========================================================================
+The user interface is built with React, Vite, TypeScript, Tailwind CSS,
+lucide-react, Radix UI and other packages distributed under the MIT, ISC,
+Apache-2.0 or BSD licences. Copyright and permission notices from those
+packages are retained in the application bundle. A full dependency listing with
+licences can be requested at mellyappdevelopment@gmail.com.
+
+==========================================================================
+Everything else
+==========================================================================
+Trader Copilot's own source code, design and name remain the property of the
+developer and are covered by "TERMS - Please Read.txt".

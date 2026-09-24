@@ -18,3 +18,11 @@ IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, TRADING
 LOSSES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
 
 Contact: mellyappdevelopment@gmail.com
+
+THIRD-PARTY COMPONENTS
+This restriction covers Trader Copilot's own code only. The application is
+distributed together with FFmpeg and ffprobe, which are licensed separately
+under the GNU GPL v3 or later and carry their own, broader rights, and with
+other open-source packages under MIT, Apache-2.0, ISC and BSD licences. See
+THIRD-PARTY-NOTICES.txt, which also explains how to obtain the corresponding
+source code. Where those licences conflict with anything above, they prevail.

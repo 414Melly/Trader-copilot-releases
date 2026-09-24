@@ -18,3 +18,8 @@ before you rely on it, and it comes with **no warranty**.
 
 Your journal, screenshots and recordings stay on your own computer. The only
 network request the app makes is an update check to GitHub.
+
+Licensing: Trader Copilot itself is proprietary — see [LICENSE](LICENSE) and
+[TERMS.txt](TERMS.txt). It ships alongside FFmpeg, which is GPLv3 and carries
+its own rights, including to its source code — see
+[THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt).
