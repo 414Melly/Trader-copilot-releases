@@ -1,0 +1,105 @@
+TRADER COPILOT — BETA TERMS OF USE
+Last updated: 24 September 2026
+Applies to: Trader Copilot Desktop, beta builds
+
+By installing or using Trader Copilot you agree to these terms. If you do not
+agree, do not install it.
+
+--------------------------------------------------------------------------
+1. THIS IS UNFINISHED SOFTWARE
+--------------------------------------------------------------------------
+This is a beta. It may contain defects, it may miscalculate, it may lose data,
+and features may change or disappear between versions. Do not use it as your
+only record of anything that matters.
+
+--------------------------------------------------------------------------
+2. NOT FINANCIAL ADVICE  — READ THIS ONE
+--------------------------------------------------------------------------
+Trader Copilot is a record-keeping and review tool. It is NOT financial,
+investment, tax, accounting or legal advice, and nothing it displays is a
+recommendation to enter or exit any position.
+
+Every number it shows — profit and loss, win rate, drawdown, streaks, pass/fail
+status, targets — is derived from data YOU entered or imported, and may be
+wrong. You are solely responsible for verifying every figure against your
+broker's and your prop firm's official statements before relying on it for any
+trading, funding, accounting or tax decision.
+
+Trading futures and other leveraged instruments involves substantial risk of
+loss. You trade entirely at your own risk.
+
+--------------------------------------------------------------------------
+3. YOUR DATA STAYS ON YOUR COMPUTER
+--------------------------------------------------------------------------
+Trader Copilot stores your journal, screenshots and recordings locally on your
+own machine. It does not transmit them anywhere. There is no account, no login
+and no server component.
+
+The ONLY network request the application makes is an update check to GitHub,
+which sends nothing about you beyond what any ordinary file download involves
+(your IP address and the fact that a file was requested). You can confirm this
+yourself with any network monitor.
+
+Because everything is local, YOU are responsible for backing up your data. The
+app keeps several rotating backups in its data folder (Settings → Open data
+folder), but there is no cloud copy and no restore button yet. If your disk
+fails, your journal is gone.
+
+If you choose to send a bug report, only what you personally paste or attach is
+shared. Nothing is collected automatically.
+
+--------------------------------------------------------------------------
+4. WHAT YOU MAY AND MAY NOT DO
+--------------------------------------------------------------------------
+You are granted a personal, non-exclusive, non-transferable, revocable licence
+to install and use this beta on computers you own, for your own trading.
+
+You may NOT:
+  (a) share, republish, sell, rent or otherwise distribute the installer or any
+      part of the application to anyone else;
+  (b) decompile, disassemble, reverse engineer, or attempt to extract or reuse
+      its source code, other than where that right cannot lawfully be
+      restricted;
+  (c) remove or alter any notice of ownership;
+  (d) present the application, or anything derived from it, as your own.
+
+The application, its design, its source code and its name remain the property
+of the developer. Nothing here transfers ownership of anything.
+
+Your access to the beta may be withdrawn at any time, for any reason.
+
+--------------------------------------------------------------------------
+5. NO WARRANTY
+--------------------------------------------------------------------------
+The software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, accuracy, and non-infringement. The developer does
+not warrant that it will be uninterrupted, error-free, or that any defect will
+be corrected.
+
+--------------------------------------------------------------------------
+6. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------
+To the maximum extent permitted by law, the developer shall not be liable for
+any trading losses, lost profits, lost or corrupted data, missed opportunities,
+failed evaluations, funding decisions, tax consequences, or any indirect,
+incidental, special, consequential or punitive damages arising out of or
+relating to your use of, or inability to use, this software — even if advised
+of the possibility of such damages.
+
+Some jurisdictions do not allow certain exclusions, so parts of this section
+may not apply to you.
+
+--------------------------------------------------------------------------
+7. FEEDBACK
+--------------------------------------------------------------------------
+Any feedback, bug report, suggestion or idea you send may be used to improve
+the product without obligation, compensation or attribution to you. Do not send
+anything you consider confidential.
+
+--------------------------------------------------------------------------
+8. CONTACT
+--------------------------------------------------------------------------
+mellyappdevelopment@gmail.com
+
+© 2026 Trader Copilot. All rights reserved.
