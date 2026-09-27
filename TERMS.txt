@@ -40,10 +40,12 @@ which sends nothing about you beyond what any ordinary file download involves
 (your IP address and the fact that a file was requested). You can confirm this
 yourself with any network monitor.
 
-Because everything is local, YOU are responsible for backing up your data. The
-app keeps several rotating backups in its data folder (Settings → Open data
-folder), but there is no cloud copy and no restore button yet. If your disk
-fails, your journal is gone.
+Because everything is local, YOU are responsible for backing up your data.
+Settings → Back up & restore writes a single file holding your journal, your
+accounts and their rules, and your screenshots, and restores it later or on
+another PC. The app also keeps rotating journal backups in its data folder.
+There is no cloud copy: if your disk fails and you kept no backup of your own,
+your journal is gone.
 
 If you choose to send a bug report, only what you personally paste or attach is
 shared. Nothing is collected automatically.
